@@ -1,4 +1,3 @@
 this is third file
 Adding line from master
-
- 
+Adding new line from feature2 
