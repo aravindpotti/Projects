@@ -1,1 +1,2 @@
-this is third file 
+this is third file
+Adding new line from feature2 
